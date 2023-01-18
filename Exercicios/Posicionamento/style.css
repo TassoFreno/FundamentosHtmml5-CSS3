@@ -1,0 +1,19 @@
+div {
+    width: 170px;
+    height: 40px;
+    border: 1px solid black;
+}
+
+div.dois {
+    position: relative;
+    left: 60px;
+    top: 15px;
+    margin: 20px 0;
+}
+
+span {
+    position: relative;
+    left: 60px;
+    top: 40px;
+    border: 1px solid red;
+}
